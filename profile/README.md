@@ -1,5 +1,8 @@
-# Hello — Welcome to BEMEval!
+# 🌿 Welcome to **BEMEval**
 
-<p align="center">
-  <img src="../images/bemeval_logo_2.png" alt="BEMEval Logo" width="900"/>
-</p>
+**Benchmarking Large Language Models for Building Energy Modeling**
+
+BEMEval is an open-source initiative advancing the intersection of **AI** and **Building Energy Modeling (BEM)**.
+We develop benchmarks, datasets, and evaluation tools to measure how effectively large language models (LLMs) can **automate BEM tasks** — from interpreting design documentation to generating simulation-ready inputs and structured data.
+
+---
