@@ -1,4 +1,4 @@
-# 🌿 Welcome to **BEMEval**
+# 🌿 Hello - Welcome to **BEMEval**!
 
 **Benchmarking Large Language Models for Building Energy Modeling**
 
